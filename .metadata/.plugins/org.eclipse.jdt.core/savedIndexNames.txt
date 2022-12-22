@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\ws-dsclient\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2321834747.index
