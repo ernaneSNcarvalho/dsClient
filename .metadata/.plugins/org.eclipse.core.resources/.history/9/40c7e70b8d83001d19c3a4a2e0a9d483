@@ -1,0 +1,5 @@
+package com.devsuperior.dsClient.repositories;
+
+public class ClientRepository {
+
+}
